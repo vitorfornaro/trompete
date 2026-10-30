@@ -1,0 +1,2403 @@
+{
+ "generated": "2026-10-29T17:58:03.354Z",
+ "songs": [
+  {
+   "id": "abertura-canto-de-xango",
+   "genre": "Abertura",
+   "title": "Canto de Xangô",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Abertura/Canto%20de%20Xang%C3%B4/Canto%20de%20Xang%C3%B4%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Abertura/Canto%20de%20Xang%C3%B4/Canto%20de%20Xang%C3%B4%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "90 bpm",
+     "bpm": 90,
+     "url": "repertorio/Abertura/Canto%20de%20Xang%C3%B4/Canto%20de%20Xang%C3%B4%20(90bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "150 bpm",
+     "bpm": 150,
+     "url": "repertorio/Abertura/Canto%20de%20Xang%C3%B4/Canto%20de%20Xang%C3%B4%20(150bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "axe-baianidade-nago-baianidade-nago-com-intro",
+   "genre": "Axé",
+   "title": "Baianidade Nagô (Com Intro)",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Com%20Intro)/Baianidade%20Nag%C3%B4%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Com%20Intro)/Baianidade%20Nag%C3%B4%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "52→80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Com%20Intro)/Baianidade%20Nag%C3%B4%20(52-80bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "72→100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Com%20Intro)/Baianidade%20Nag%C3%B4%20(72-100bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "axe-baianidade-nago-baianidade-nago-sem-intro",
+   "genre": "Axé",
+   "title": "Baianidade Nagô (Sem Intro)",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Sem%20Intro)/Baianidade%20Nag%C3%B4%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "com cola",
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Sem%20Intro)/Baianidade%20Nag%C3%B4%20(com%20cola)-Trompete_em_Bb_8abaixo.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Sem%20Intro)/Baianidade%20Nag%C3%B4%20(sem%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Sem%20Intro)/Baianidade%20Nag%C3%B4%20(sem%20cola)-Trompete_em_Bb_8abaixo.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "8ª abaixo",
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Sem%20Intro)/Baianidade%20Nag%C3%B4%20(8abaixo)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Sem%20Intro)/Baianidade%20Nag%C3%B4%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Ax%C3%A9/Baianidade%20Nag%C3%B4/Baianidade%20Nag%C3%B4%20(Sem%20Intro)/Baianidade%20Nag%C3%B4%20(100bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "axe-beleza-rara",
+   "genre": "Axé",
+   "title": "Beleza Rara",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ax%C3%A9/Beleza%20Rara/Beleza%20Rara%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ax%C3%A9/Beleza%20Rara/Beleza%20Rara%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Ax%C3%A9/Beleza%20Rara/Beleza%20Rara%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "105 bpm",
+     "bpm": 105,
+     "url": "repertorio/Ax%C3%A9/Beleza%20Rara/Beleza%20Rara%20(105bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "axe-tieta",
+   "genre": "Axé",
+   "title": "Tieta",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ax%C3%A9/Tieta/Tieta%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ax%C3%A9/Tieta/Tieta%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Ax%C3%A9/Tieta/Tieta%20(60bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Ax%C3%A9/Tieta/Tieta%20(110bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "axe-voce-nao-entende-nada",
+   "genre": "Axé",
+   "title": "Você Não Entende Nada",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ax%C3%A9/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ax%C3%A9/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Ax%C3%A9/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Ax%C3%A9/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada/Voc%C3%AA%20N%C3%A3o%20Entende%20Nada%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "cirandas-ciranda-da-rosa-vermelha",
+   "genre": "Cirandas",
+   "title": "Ciranda da Rosa Vermelha",
+   "pdfs": [
+    {
+     "label": "sem cola",
+     "url": "repertorio/Cirandas/Ciranda%20da%20Rosa%20Vermelha/Rosa%20Vermelha%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [],
+   "links": []
+  },
+  {
+   "id": "cirandas-cirandeiro-casa-de-farinha",
+   "genre": "Cirandas",
+   "title": "Cirandeiro - Casa de Farinha",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Cirandas/Cirandeiro%20-%20Casa%20de%20Farinha/Cirandeiro%20-%20Casa%20de%20Farinha%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Cirandas/Cirandeiro%20-%20Casa%20de%20Farinha/Cirandeiro%20-%20Casa%20de%20Farinha%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "90 bpm",
+     "bpm": 90,
+     "url": "repertorio/Cirandas/Cirandeiro%20-%20Casa%20de%20Farinha/Cirandeiro%20-%20Casa%20de%20Farinha%20(90bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "cirandas-mamae-oxum",
+   "genre": "Cirandas",
+   "title": "Mamãe Oxum",
+   "pdfs": [
+    {
+     "label": "sem cola",
+     "part": 1,
+     "url": "repertorio/Cirandas/Mam%C3%A3e%20Oxum/Mam%C3%A3e%20Oxum%20(sem%20cola)-Trompete_em_Bb_1.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 2,
+     "url": "repertorio/Cirandas/Mam%C3%A3e%20Oxum/Mam%C3%A3e%20Oxum%20(sem%20cola)-Trompete_em_Bb_2.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 3,
+     "url": "repertorio/Cirandas/Mam%C3%A3e%20Oxum/Mam%C3%A3e%20Oxum%20(sem%20cola)-Trompete_em_Bb_3.pdf"
+    }
+   ],
+   "audios": [],
+   "links": []
+  },
+  {
+   "id": "cirandas-suite-dos-pescadores",
+   "genre": "Cirandas",
+   "title": "Suíte dos Pescadores",
+   "pdfs": [
+    {
+     "label": "sem cola",
+     "url": "repertorio/Cirandas/Su%C3%ADte%20dos%20Pescadores/Su%C3%ADte%20dos%20Pescadores%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [],
+   "links": []
+  },
+  {
+   "id": "cumbia-carinito",
+   "genre": "Cumbia",
+   "title": "Carinito",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "part": 1,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(com%20cola)-Trompete_em_Bb_1.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 1,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(sem%20cola)-Trompete_em_Bb_1.pdf"
+    },
+    {
+     "label": "com cola",
+     "part": 2,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(com%20cola)-Trompete_em_Bb_2.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 2,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(sem%20cola)-Trompete_em_Bb_2.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "part": 1,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(70bpm)-Trompete_em_Bb_1.mp3"
+    },
+    {
+     "label": "97 bpm",
+     "bpm": 97,
+     "part": 1,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(97bpm)-Trompete_em_Bb_1.mp3"
+    },
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "part": 2,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(70bpm)-Trompete_em_Bb_2.mp3"
+    },
+    {
+     "label": "97 bpm",
+     "bpm": 97,
+     "part": 2,
+     "url": "repertorio/Cumbia/Carinito/Cari%C3%B1ito%20(97bpm)-Trompete_em_Bb_2.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-amazing-grace",
+   "genre": "Domínio público",
+   "title": "Amazing Grace",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Amazing%20Grace/Amazing%20Grace%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Amazing%20Grace/Amazing%20Grace%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Amazing%20Grace/Amazing%20Grace%20(60bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Amazing%20Grace/Amazing%20Grace%20(80bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-bate-o-sino",
+   "genre": "Domínio público",
+   "title": "Bate o Sino",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bate%20o%20Sino/Bate%20o%20Sino%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bate%20o%20Sino/Bate%20o%20Sino%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bate%20o%20Sino/Bate%20o%20Sino%20(80bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bate%20o%20Sino/Bate%20o%20Sino%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-bella-ciao",
+   "genre": "Domínio público",
+   "title": "Bella Ciao",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bella%20Ciao/Bella%20Ciao%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bella%20Ciao/Bella%20Ciao%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bella%20Ciao/Bella%20Ciao%20(80bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Bella%20Ciao/Bella%20Ciao%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-greensleeves",
+   "genre": "Domínio público",
+   "title": "Greensleeves",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Greensleeves/Greensleeves%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Greensleeves/Greensleeves%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "40 bpm",
+     "bpm": 40,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Greensleeves/Greensleeves%20(40bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "56 bpm",
+     "bpm": 56,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Greensleeves/Greensleeves%20(56bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-irmao-jaco",
+   "genre": "Domínio público",
+   "title": "Irmão Jacó",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Irm%C3%A3o%20Jac%C3%B3/Irm%C3%A3o%20Jac%C3%B3%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Irm%C3%A3o%20Jac%C3%B3/Irm%C3%A3o%20Jac%C3%B3%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Irm%C3%A3o%20Jac%C3%B3/Irm%C3%A3o%20Jac%C3%B3%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Irm%C3%A3o%20Jac%C3%B3/Irm%C3%A3o%20Jac%C3%B3%20(100bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-ode-a-alegria",
+   "genre": "Domínio público",
+   "title": "Ode à Alegria",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Ode%20%C3%A0%20Alegria/Ode%20%C3%A0%20Alegria%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Ode%20%C3%A0%20Alegria/Ode%20%C3%A0%20Alegria%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Ode%20%C3%A0%20Alegria/Ode%20%C3%A0%20Alegria%20(60bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "90 bpm",
+     "bpm": 90,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Ode%20%C3%A0%20Alegria/Ode%20%C3%A0%20Alegria%20(90bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-parabens-melodia",
+   "genre": "Domínio público",
+   "title": "Parabéns (melodia)",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Parab%C3%A9ns%20(melodia)/Parab%C3%A9ns%20(melodia)%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Parab%C3%A9ns%20(melodia)/Parab%C3%A9ns%20(melodia)%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Parab%C3%A9ns%20(melodia)/Parab%C3%A9ns%20(melodia)%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/Parab%C3%A9ns%20(melodia)/Parab%C3%A9ns%20(melodia)%20(100bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "dominio-publico-when-the-saints-go-marching-in",
+   "genre": "Domínio público",
+   "title": "When the Saints Go Marching In",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/When%20the%20Saints%20Go%20Marching%20In/When%20the%20Saints%20Go%20Marching%20In%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/When%20the%20Saints%20Go%20Marching%20In/When%20the%20Saints%20Go%20Marching%20In%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/When%20the%20Saints%20Go%20Marching%20In/When%20the%20Saints%20Go%20Marching%20In%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Dom%C3%ADnio%20p%C3%BAblico/When%20the%20Saints%20Go%20Marching%20In/When%20the%20Saints%20Go%20Marching%20In%20(100bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "forro-ai-que-saudade-d-oce",
+   "genre": "Forró",
+   "title": "Ai que saudade d´ocê",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Forr%C3%B3/Ai%20que%20saudade%20d%C2%B4oc%C3%AA/Ai%20que%20saudade%20d%C2%B4oc%C3%AA%20(com%20cola)-Trompete.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Forr%C3%B3/Ai%20que%20saudade%20d%C2%B4oc%C3%AA/Ai%20que%20saudade%20d%C2%B4oc%C3%AA%20(sem%20cola)-Trompete.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Forr%C3%B3/Ai%20que%20saudade%20d%C2%B4oc%C3%AA/Ai%20que%20saudade%20d%C2%B4oc%C3%AA%20(70bpm)-Trompete.mp3"
+    },
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "url": "repertorio/Forr%C3%B3/Ai%20que%20saudade%20d%C2%B4oc%C3%AA/Ai%20que%20saudade%20d%C2%B4oc%C3%AA%20(120bpm)-Trompete.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "forro-anunciacao",
+   "genre": "Forró",
+   "title": "Anunciação",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(com%20cola)-Trompete_1.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(sem%20cola)-Trompete_1.pdf"
+    },
+    {
+     "label": "com cola",
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(com%20cola)-Trompete_2.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(sem%20cola)-Trompete_2.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(80bpm)-Trompete_1.mp3"
+    },
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(120bpm)-Trompete_1.mp3"
+    },
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(80bpm)-Trompete_2.mp3"
+    },
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Anuncia%C3%A7%C3%A3o/Anuncia%C3%A7%C3%A3o%20(120bpm)-Trompete_2.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "forro-asa-branca",
+   "genre": "Forró",
+   "title": "Asa Branca",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Forr%C3%B3/Asa%20Branca/Asa%20Branca%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Forr%C3%B3/Asa%20Branca/Asa%20Branca%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Forr%C3%B3/Asa%20Branca/Asa%20Branca%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Forr%C3%B3/Asa%20Branca/Asa%20Branca%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "forro-baiao",
+   "genre": "Forró",
+   "title": "Baião",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(com%20cola)-Trompete_1.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(sem%20cola)-Trompete_1.pdf"
+    },
+    {
+     "label": "com cola",
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(com%20cola)-Trompete_2.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(sem%20cola)-Trompete_2.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(80bpm)-Trompete_1.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "part": 1,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(110bpm)-Trompete_1.mp3"
+    },
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(80bpm)-Trompete_2.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "part": 2,
+     "url": "repertorio/Forr%C3%B3/Bai%C3%A3o/Bai%C3%A3o%20(110bpm)-Trompete_2.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "forro-eu-so-quero-um-xodo",
+   "genre": "Forró",
+   "title": "Eu só quero um xodó",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Forr%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Forr%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Forr%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Forr%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3/Eu%20s%C3%B3%20quero%20um%20xod%C3%B3%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "forro-festa",
+   "genre": "Forró",
+   "title": "Festa",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Forr%C3%B3/Festa/Festa%20(com%20cola)-Trompete.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Forr%C3%B3/Festa/Festa%20(sem%20cola)-Trompete.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Forr%C3%B3/Festa/Festa%20(60bpm)-Trompete.mp3"
+    },
+    {
+     "label": "98 bpm",
+     "bpm": 98,
+     "url": "repertorio/Forr%C3%B3/Festa/Festa%20(98bpm)-Trompete.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "frevo-cabelo-de-fogo",
+   "genre": "Frevo",
+   "title": "Cabelo de Fogo",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Frevo/Cabelo%20de%20Fogo/Cabelo%20de%20Fogo%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Frevo/Cabelo%20de%20Fogo/Cabelo%20de%20Fogo%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "150 bpm",
+     "bpm": 150,
+     "url": "repertorio/Frevo/Cabelo%20de%20Fogo/Cabelo%20de%20Fogo%20(150bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-djavan-djavan-azul",
+   "genre": "Homenagens",
+   "title": "Djavan - Azul",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Azul/Azul%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Azul/Azul%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Azul/Azul%20(120bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-djavan-djavan-flor-de-lis",
+   "genre": "Homenagens",
+   "title": "Djavan - Flor de Lis",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Flor%20de%20Lis/Flor%20de%20Lis%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Flor%20de%20Lis/Flor%20de%20Lis%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Flor%20de%20Lis/Flor%20de%20Lis%20(100bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-djavan-djavan-lilas",
+   "genre": "Homenagens",
+   "title": "Djavan - Lilás",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Lil%C3%A1s/Lil%C3%A1s%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Lil%C3%A1s/Lil%C3%A1s%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "Áudio",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Lil%C3%A1s/Lil%C3%A1s%20(Trompete).mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-djavan-djavan-nereci",
+   "genre": "Homenagens",
+   "title": "Djavan - Nereci",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Nereci/Nereci%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Nereci/Nereci%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "106 bpm",
+     "bpm": 106,
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Nereci/Nereci%20(106bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-djavan-djavan-sina",
+   "genre": "Homenagens",
+   "title": "Djavan - Sina",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Sina/Sina%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Sina/Sina%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Homenagens/Djavan/Djavan%20-%20Sina/Sina%20(110bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-maria-maria",
+   "genre": "Homenagens",
+   "title": "Maria Maria",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Maria%20Maria/Maria%20Maria%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Maria%20Maria/Maria%20Maria%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Homenagens/Maria%20Maria/Maria%20Maria%20(80bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "url": "repertorio/Homenagens/Maria%20Maria/Maria%20Maria%20(120bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-palco",
+   "genre": "Homenagens",
+   "title": "Palco",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Palco/Palco%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Palco/Palco%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Homenagens/Palco/Palco%20(60bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Homenagens/Palco/Palco%20(110bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "homenagens-sinais-de-fogo",
+   "genre": "Homenagens",
+   "title": "Sinais de Fogo",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Homenagens/Sinais%20de%20Fogo/Sinais%20de%20Fogo%20(Com%20Cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Homenagens/Sinais%20de%20Fogo/Sinais%20de%20Fogo%20(Sem%20Cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "Áudio",
+     "url": "repertorio/Homenagens/Sinais%20de%20Fogo/Sinais%20de%20Fogo-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "ijexa-como-e-lindo-o-canto-de-iemanja",
+   "genre": "Ijexá",
+   "title": "Como é Lindo o Canto de Iemanjá",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ijex%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ijex%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "65 bpm",
+     "bpm": 65,
+     "url": "repertorio/Ijex%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1%20(65bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "104 bpm",
+     "bpm": 104,
+     "url": "repertorio/Ijex%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1/Como%20%C3%A9%20Lindo%20o%20Canto%20de%20Iemanj%C3%A1%20(104bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "ijexa-e-d-oxum",
+   "genre": "Ijexá",
+   "title": "É d´oxum",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ijex%C3%A1/%C3%89%20d%C2%B4oxum/%C3%89%20d%C2%B4oxum%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ijex%C3%A1/%C3%89%20d%C2%B4oxum/%C3%89%20d%C2%B4oxum%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "65 bpm",
+     "bpm": 65,
+     "url": "repertorio/Ijex%C3%A1/%C3%89%20d%C2%B4oxum/%C3%89%20d%C2%B4oxum%20(65bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "104 bpm",
+     "bpm": 104,
+     "url": "repertorio/Ijex%C3%A1/%C3%89%20d%C2%B4oxum/%C3%89%20d%C2%B4oxum%20(104bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "ijexa-e-morio",
+   "genre": "Ijexá",
+   "title": "Ê Moriô",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ijex%C3%A1/%C3%8A%20Mori%C3%B4/E%20Mori%C3%B4%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ijex%C3%A1/%C3%8A%20Mori%C3%B4/E%20Mori%C3%B4%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "65 bpm",
+     "bpm": 65,
+     "url": "repertorio/Ijex%C3%A1/%C3%8A%20Mori%C3%B4/E%20Mori%C3%B4%20(65bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "104 bpm",
+     "bpm": 104,
+     "url": "repertorio/Ijex%C3%A1/%C3%8A%20Mori%C3%B4/E%20Mori%C3%B4%20(104bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "ijexa-lua-de-sao-jorge",
+   "genre": "Ijexá",
+   "title": "Lua de São Jorge",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ijex%C3%A1/Lua%20de%20S%C3%A3o%20Jorge/Lua%20de%20S%C3%A3o%20Jorge%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ijex%C3%A1/Lua%20de%20S%C3%A3o%20Jorge/Lua%20de%20S%C3%A3o%20Jorge%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Ijex%C3%A1/Lua%20de%20S%C3%A3o%20Jorge/Lua%20de%20S%C3%A3o%20Jorge%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Ijex%C3%A1/Lua%20de%20S%C3%A3o%20Jorge/Lua%20de%20S%C3%A3o%20Jorge%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "ijexa-oxossi",
+   "genre": "Ijexá",
+   "title": "Oxóssi",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ijex%C3%A1/Ox%C3%B3ssi/Ox%C3%B3ssi%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ijex%C3%A1/Ox%C3%B3ssi/Ox%C3%B3ssi%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Ijex%C3%A1/Ox%C3%B3ssi/Ox%C3%B3ssi%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "96 bpm",
+     "bpm": 96,
+     "url": "repertorio/Ijex%C3%A1/Ox%C3%B3ssi/Ox%C3%B3ssi%20(96bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "ijexa-toda-menina-baiana",
+   "genre": "Ijexá",
+   "title": "Toda menina baiana",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Ijex%C3%A1/Toda%20menina%20baiana/Toda%20Menina%20Baiana%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Ijex%C3%A1/Toda%20menina%20baiana/Toda%20Menina%20Baiana%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "65 bpm",
+     "bpm": 65,
+     "url": "repertorio/Ijex%C3%A1/Toda%20menina%20baiana/Toda%20Menina%20Baiana%20(65bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "104 bpm",
+     "bpm": 104,
+     "url": "repertorio/Ijex%C3%A1/Toda%20menina%20baiana/Toda%20Menina%20Baiana%20(104bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "maracatu-cheguei-meu-povo",
+   "genre": "Maracatu",
+   "title": "Cheguei Meu Povo",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Maracatu/Cheguei%20Meu%20Povo/Cheguei%20Meu%20Povo%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Maracatu/Cheguei%20Meu%20Povo/Cheguei%20Meu%20Povo%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Maracatu/Cheguei%20Meu%20Povo/Cheguei%20Meu%20Povo%20(70bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "105 bpm",
+     "bpm": 105,
+     "url": "repertorio/Maracatu/Cheguei%20Meu%20Povo/Cheguei%20Meu%20Povo%20(105bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "maracatu-clementina-de-jesus-no-morro-da-conceicao",
+   "genre": "Maracatu",
+   "title": "Clementina de Jesus no Morro da Conceição",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Maracatu/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Maracatu/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Maracatu/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o%20(70bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "105 bpm",
+     "bpm": 105,
+     "url": "repertorio/Maracatu/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o/Clementina%20de%20Jesus%20no%20Morro%20da%20Concei%C3%A7%C3%A3o%20(105bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "maracatu-maracatu-atomico",
+   "genre": "Maracatu",
+   "title": "Maracatu Atômico",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "part": 1,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(com%20cola)-Trompete_em_Sib_1.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 1,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(sem%20cola)-Trompete_em_Sib_1.pdf"
+    },
+    {
+     "label": "com cola",
+     "part": 2,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(com%20cola)-Trompete_em_Sib_2.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 2,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(sem%20cola)-Trompete_em_Sib_2.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "50 bpm",
+     "bpm": 50,
+     "part": 1,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(50bpm)-Trompete_em_Sib_1.mp3"
+    },
+    {
+     "label": "90 bpm",
+     "bpm": 90,
+     "part": 1,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(90bpm)-Trompete_em_Sib_1.mp3"
+    },
+    {
+     "label": "50 bpm",
+     "bpm": 50,
+     "part": 2,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(50bpm)-Trompete_em_Sib_2.mp3"
+    },
+    {
+     "label": "90 bpm",
+     "bpm": 90,
+     "part": 2,
+     "url": "repertorio/Maracatu/Maracatu%20At%C3%B4mico/Maracatu%20At%C3%B4mico%20(90bpm)-Trompete_em_Sib_2.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "maracatu-moro-omin-ma",
+   "genre": "Maracatu",
+   "title": "Moro Omin Ma",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Maracatu/Moro%20Omin%20Ma/Moro%20Omin%20Ma%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Maracatu/Moro%20Omin%20Ma/Moro%20Omin%20Ma%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Maracatu/Moro%20Omin%20Ma/Moro%20Omin%20Ma%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "95 bpm",
+     "bpm": 95,
+     "url": "repertorio/Maracatu/Moro%20Omin%20Ma/Moro%20Omin%20Ma%20(95bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "maracatu-nossos-tambores",
+   "genre": "Maracatu",
+   "title": "Nossos Tambores",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Maracatu/Nossos%20Tambores/Nossos%20Tambores%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Maracatu/Nossos%20Tambores/Nossos%20Tambores%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Maracatu/Nossos%20Tambores/Nossos%20Tambores%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "105 bpm",
+     "bpm": 105,
+     "url": "repertorio/Maracatu/Nossos%20Tambores/Nossos%20Tambores%20(105bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "maracatu-verde-mar-de-navegar",
+   "genre": "Maracatu",
+   "title": "Verde Mar de Navegar",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Maracatu/Verde%20Mar%20de%20Navegar/Verde%20Mar%20de%20Navegar%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Maracatu/Verde%20Mar%20de%20Navegar/Verde%20Mar%20de%20Navegar%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Maracatu/Verde%20Mar%20de%20Navegar/Verde%20Mar%20de%20Navegar%20(70bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Maracatu/Verde%20Mar%20de%20Navegar/Verde%20Mar%20de%20Navegar%20(110bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marcha-rancho-abre-alas",
+   "genre": "Marcha Rancho",
+   "title": "Abre Alas",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marcha%20Rancho/Abre%20Alas/Abre%20Alas%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marcha%20Rancho/Abre%20Alas/Abre%20Alas%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Marcha%20Rancho/Abre%20Alas/Abre%20Alas%20(60bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "90 bpm",
+     "bpm": 90,
+     "url": "repertorio/Marcha%20Rancho/Abre%20Alas/Abre%20Alas%20(90bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marcha-rancho-as-pastorinhas",
+   "genre": "Marcha Rancho",
+   "title": "As Pastorinhas",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marcha%20Rancho/As%20Pastorinhas/As%20Pastorinhas%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marcha%20Rancho/As%20Pastorinhas/As%20Pastorinhas%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Marcha%20Rancho/As%20Pastorinhas/As%20Pastorinhas%20(60bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Marcha%20Rancho/As%20Pastorinhas/As%20Pastorinhas%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marcha-rancho-bandeira-branca",
+   "genre": "Marcha Rancho",
+   "title": "Bandeira Branca",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marcha%20Rancho/Bandeira%20Branca/Bandeira%20Branca%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marcha%20Rancho/Bandeira%20Branca/Bandeira%20Branca%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Marcha%20Rancho/Bandeira%20Branca/Bandeira%20Branca%20(60bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "90 bpm",
+     "bpm": 90,
+     "url": "repertorio/Marcha%20Rancho/Bandeira%20Branca/Bandeira%20Branca%20(90bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marcha-rancho-carinhoso",
+   "genre": "Marcha Rancho",
+   "title": "Carinhoso",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marcha%20Rancho/Carinhoso/Carinhoso%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marcha%20Rancho/Carinhoso/Carinhoso%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marcha%20Rancho/Carinhoso/Carinhoso%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Marcha%20Rancho/Carinhoso/Carinhoso%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marcha-rancho-eu-quero-e-botar-meu-bloco-na-rua",
+   "genre": "Marcha Rancho",
+   "title": "Eu Quero É Botar Meu Bloco Na Rua",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marcha%20Rancho/Eu%20Quero%20%C3%89%20Botar%20Meu%20Bloco%20Na%20Rua/Eu%20Quero%20%C3%A9%20Botar%20Meu%20Bloco%20na%20Rua%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marcha%20Rancho/Eu%20Quero%20%C3%89%20Botar%20Meu%20Bloco%20Na%20Rua/Eu%20Quero%20%C3%A9%20Botar%20Meu%20Bloco%20na%20Rua%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marcha%20Rancho/Eu%20Quero%20%C3%89%20Botar%20Meu%20Bloco%20Na%20Rua/Eu%20Quero%20%C3%A9%20Botar%20Meu%20Bloco%20na%20Rua%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Marcha%20Rancho/Eu%20Quero%20%C3%89%20Botar%20Meu%20Bloco%20Na%20Rua/Eu%20Quero%20%C3%A9%20Botar%20Meu%20Bloco%20na%20Rua%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marcha-rancho-hino-me-enterra-na-quarta",
+   "genre": "Marcha Rancho",
+   "title": "Hino Me Enterra na Quarta",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "part": 1,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(com%20cola)-Trompete_em_Bb_1.pdf"
+    },
+    {
+     "label": "com letra",
+     "part": 1,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(com%20letra)-Trompete_em_Bb_1.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 1,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(sem%20cola)-Trompete_em_Bb_1.pdf"
+    },
+    {
+     "label": "com cola",
+     "part": 2,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(com%20cola)-Trompete_em_Bb_2.pdf"
+    },
+    {
+     "label": "sem cola",
+     "part": 2,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(sem%20cola)-Trompete_em_Bb_2.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "95 bpm",
+     "bpm": 95,
+     "part": 1,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(95bpm)-Trompete_em_Bb_1.mp3"
+    },
+    {
+     "label": "145 bpm",
+     "bpm": 145,
+     "part": 1,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(145bpm)-Trompete_em_Bb_1.mp3"
+    },
+    {
+     "label": "95 bpm",
+     "bpm": 95,
+     "part": 2,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(95bpm)-Trompete_em_Bb_2.mp3"
+    },
+    {
+     "label": "145 bpm",
+     "bpm": 145,
+     "part": 2,
+     "url": "repertorio/Marcha%20Rancho/Hino%20Me%20Enterra%20na%20Quarta/Hino%20Me%20Enterra%20na%20Quarta%20(145bpm)-Trompete_em_Bb_2.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marcha-rancho-mascara-negra",
+   "genre": "Marcha Rancho",
+   "title": "Máscara Negra",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marcha%20Rancho/M%C3%A1scara%20Negra/M%C3%A1scara%20Negra%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marcha%20Rancho/M%C3%A1scara%20Negra/M%C3%A1scara%20Negra%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marcha%20Rancho/M%C3%A1scara%20Negra/M%C3%A1scara%20Negra%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Marcha%20Rancho/M%C3%A1scara%20Negra/M%C3%A1scara%20Negra%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-alla-la-o",
+   "genre": "Marchinha",
+   "title": "Alla-lá-ô",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Alla-l%C3%A1-%C3%B4/Alla-l%C3%A1-%C3%B4%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Alla-l%C3%A1-%C3%B4/Alla-l%C3%A1-%C3%B4%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Alla-l%C3%A1-%C3%B4/Alla-l%C3%A1-%C3%B4%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Alla-l%C3%A1-%C3%B4/Alla-l%C3%A1-%C3%B4%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-aurora",
+   "genre": "Marchinha",
+   "title": "Aurora",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Aurora/Aurora%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Aurora/Aurora%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Aurora/Aurora%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Aurora/Aurora%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-balance",
+   "genre": "Marchinha",
+   "title": "Balancê",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Balanc%C3%AA/Balanc%C3%AA%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Balanc%C3%AA/Balanc%C3%AA%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Balanc%C3%AA/Balanc%C3%AA%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Balanc%C3%AA/Balanc%C3%AA%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-cachaca",
+   "genre": "Marchinha",
+   "title": "Cachaça",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Cacha%C3%A7a/Cacha%C3%A7a%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Cacha%C3%A7a/Cacha%C3%A7a%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Cacha%C3%A7a/Cacha%C3%A7a%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Cacha%C3%A7a/Cacha%C3%A7a%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-jardineira",
+   "genre": "Marchinha",
+   "title": "Jardineira",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Jardineira/Jardineira%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Jardineira/Jardineira%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Jardineira/Jardineira%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Jardineira/Jardineira%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-mamae-eu-quero",
+   "genre": "Marchinha",
+   "title": "Mamãe Eu Quero",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Mam%C3%A3e%20Eu%20Quero/Mam%C3%A3e%20Eu%20Quero%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Mam%C3%A3e%20Eu%20Quero/Mam%C3%A3e%20Eu%20Quero%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Mam%C3%A3e%20Eu%20Quero/Mam%C3%A3e%20Eu%20Quero%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Mam%C3%A3e%20Eu%20Quero/Mam%C3%A3e%20Eu%20Quero%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-me-da-um-dinheiro-ai",
+   "genre": "Marchinha",
+   "title": "Me dá um dinheiro aí",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD/Me%20d%C3%A1%20um%20dinheiro%20a%C3%AD%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-quem-sabe-sabe",
+   "genre": "Marchinha",
+   "title": "Quem sabe, sabe",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Quem%20sabe%2C%20sabe/Quem%20Sabe%2C%20Sabe%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Quem%20sabe%2C%20sabe/Quem%20Sabe%2C%20Sabe%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Quem%20sabe%2C%20sabe/Quem%20Sabe%2C%20Sabe%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Quem%20sabe%2C%20sabe/Quem%20Sabe%2C%20Sabe%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-ressaca",
+   "genre": "Marchinha",
+   "title": "Ressaca",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Ressaca/Ressaca%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Ressaca/Ressaca%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Marchinha/Ressaca/Ressaca%20(80bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "url": "repertorio/Marchinha/Ressaca/Ressaca%20(120bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-saca-rolha",
+   "genre": "Marchinha",
+   "title": "Saca Rolha",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Saca%20Rolha/Saca%20Rolha%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Saca%20Rolha/Saca%20Rolha%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Marchinha/Saca%20Rolha/Saca%20Rolha%20(80bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Saca%20Rolha/Saca%20Rolha%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-ta-hi",
+   "genre": "Marchinha",
+   "title": "Ta-hí",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Ta-h%C3%AD/Ta-h%C3%AD%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Ta-h%C3%AD/Ta-h%C3%AD%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Ta-h%C3%AD/Ta-h%C3%AD%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Ta-h%C3%AD/Ta-h%C3%AD%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-touradas-em-madri",
+   "genre": "Marchinha",
+   "title": "Touradas em Madri",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Touradas%20em%20Madri/Touradas%20em%20Madri%20(com%20cola)-Trompete_in_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Touradas%20em%20Madri/Touradas%20em%20Madri%20(sem%20cola)-Trompete_in_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Touradas%20em%20Madri/Touradas%20em%20Madri%20(70bpm)-Trompete_in_Sib.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Touradas%20em%20Madri/Touradas%20em%20Madri%20(130bpm)-Trompete_in_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-turma-do-funil",
+   "genre": "Marchinha",
+   "title": "Turma do Funil",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Turma%20do%20Funil/Turma%20do%20Funil%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Turma%20do%20Funil/Turma%20do%20Funil%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Turma%20do%20Funil/Turma%20do%20Funil%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Turma%20do%20Funil/Turma%20do%20Funil%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "marchinha-ze-pereira",
+   "genre": "Marchinha",
+   "title": "Zé Pereira",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Marchinha/Z%C3%A9%20Pereira/Z%C3%A9%20Pereira%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Marchinha/Z%C3%A9%20Pereira/Z%C3%A9%20Pereira%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Marchinha/Z%C3%A9%20Pereira/Z%C3%A9%20Pereira%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "130 bpm",
+     "bpm": 130,
+     "url": "repertorio/Marchinha/Z%C3%A9%20Pereira/Z%C3%A9%20Pereira%20(130bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-apesar-de-voce",
+   "genre": "Samba",
+   "title": "Apesar de Você",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Apesar%20de%20Voc%C3%AA/Apesar%20de%20Voc%C3%AA%20(com%20cola)-Trompete.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Apesar%20de%20Voc%C3%AA/Apesar%20de%20Voc%C3%AA%20(sem%20cola)-Trompete.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Apesar%20de%20Voc%C3%AA/Apesar%20de%20Voc%C3%AA%20(70bpm)-Trompete.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Samba/Apesar%20de%20Voc%C3%AA/Apesar%20de%20Voc%C3%AA%20(110bpm)-Trompete.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-batucada-dos-nossos-tantas",
+   "genre": "Samba",
+   "title": "Batucada dos Nossos Tantãs",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Batucada%20dos%20Nossos%20Tant%C3%A3s/Batucada%20dos%20Nossos%20Tant%C3%A3s%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "com letra",
+     "url": "repertorio/Samba/Batucada%20dos%20Nossos%20Tant%C3%A3s/Batucada%20dos%20Nossos%20Tant%C3%A3s%20(com%20letra)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Batucada%20dos%20Nossos%20Tant%C3%A3s/Batucada%20dos%20Nossos%20Tant%C3%A3s%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Batucada%20dos%20Nossos%20Tant%C3%A3s/Batucada%20dos%20Nossos%20Tant%C3%A3s%20(70%20bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "97 bpm",
+     "bpm": 97,
+     "url": "repertorio/Samba/Batucada%20dos%20Nossos%20Tant%C3%A3s/Batucada%20dos%20Nossos%20Tant%C3%A3s%20(97bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": [
+    {
+     "label": "Prof Raphael tocando - trompete",
+     "url": "https://www.youtube.com/watch?v=9vuqHeppz-Y"
+    },
+    {
+     "label": "Áudio com metrônomo",
+     "url": "https://www.dropbox.com/s/ohpppsz3wixlrnr/Batucada%20dos%20Nossos%20Tant%C3%A3s%20%28metr%C3%B4nomo%29.mp3?dl=0"
+    }
+   ]
+  },
+  {
+   "id": "samba-canto-das-3-racas",
+   "genre": "Samba",
+   "title": "Canto das 3 Raças",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Canto%20das%203%20Ra%C3%A7as/Canto%20das%20Tr%C3%AAs%20Ra%C3%A7as%20(com%20cola)-Trompete.pdf"
+    },
+    {
+     "label": "com letra",
+     "url": "repertorio/Samba/Canto%20das%203%20Ra%C3%A7as/Canto%20das%20Tr%C3%AAs%20Ra%C3%A7as%20(com%20letra)-Trompete.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Canto%20das%203%20Ra%C3%A7as/Canto%20das%20Tr%C3%AAs%20Ra%C3%A7as%20(sem%20cola)-Trompete.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Canto%20das%203%20Ra%C3%A7as/Canto%20das%20Tr%C3%AAs%20Ra%C3%A7as%20(70bpm)-Trompete.mp3"
+    },
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "url": "repertorio/Samba/Canto%20das%203%20Ra%C3%A7as/Canto%20das%20Tr%C3%AAs%20Ra%C3%A7as%20(120bpm)-Trompete.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-conselho",
+   "genre": "Samba",
+   "title": "Conselho",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Conselho/Conselho%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "com letra",
+     "url": "repertorio/Samba/Conselho/Conselho%20(com%20letra)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Conselho/Conselho%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "50 bpm",
+     "bpm": 50,
+     "url": "repertorio/Samba/Conselho/Conselho%20(50bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "88 bpm",
+     "bpm": 88,
+     "url": "repertorio/Samba/Conselho/Conselho%20(88bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": [
+    {
+     "label": "Áudio com metrônomo",
+     "url": "https://www.dropbox.com/s/2jyt71hrkhhjhgn/Conselho%20%28metr%C3%B4nomo%29.mp3?dl=0"
+    }
+   ]
+  },
+  {
+   "id": "samba-do-jeito-que-o-rei-mandou",
+   "genre": "Samba",
+   "title": "Do jeito que o rei mandou",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Do%20jeito%20que%20o%20rei%20mandou/Do%20Jeito%20que%20o%20Rei%20Mandou%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "com letra",
+     "url": "repertorio/Samba/Do%20jeito%20que%20o%20rei%20mandou/Do%20Jeito%20que%20o%20Rei%20Mandou%20(com%20letra)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Do%20jeito%20que%20o%20rei%20mandou/Do%20Jeito%20que%20o%20Rei%20Mandou%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "50 bpm",
+     "bpm": 50,
+     "url": "repertorio/Samba/Do%20jeito%20que%20o%20rei%20mandou/Do%20Jeito%20que%20o%20Rei%20Mandou%20(50bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "86 bpm",
+     "bpm": 86,
+     "url": "repertorio/Samba/Do%20jeito%20que%20o%20rei%20mandou/Do%20Jeito%20que%20o%20Rei%20Mandou%20(86bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": [
+    {
+     "label": "Prof Raphael tocando- trompete",
+     "url": "https://www.youtube.com/watch?v=WFoVqh31vhs"
+    }
+   ]
+  },
+  {
+   "id": "samba-e",
+   "genre": "Samba",
+   "title": "É",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/%C3%89/%C3%89%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "com letra",
+     "url": "repertorio/Samba/%C3%89/%C3%89%20(com%20letra)-Trompete.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/%C3%89/%C3%89%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Samba/%C3%89/%C3%89%20(80bpm)-Trompete.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Samba/%C3%89/%C3%89%20(110bpm)-Trompete.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-historia-pra-ninar-gente-grande",
+   "genre": "Samba",
+   "title": "História Pra Ninar Gente Grande",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande%20(70bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "120 bpm",
+     "bpm": 120,
+     "url": "repertorio/Samba/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande/Hist%C3%B3ria%20Pra%20Ninar%20Gente%20Grande%20(120bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-identidade",
+   "genre": "Samba",
+   "title": "Identidade",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Identidade/Identidade%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Identidade/Identidade%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Identidade/Identidade%20(70bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Samba/Identidade/Identidade%20(100bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-ja-e",
+   "genre": "Samba",
+   "title": "Já É",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/J%C3%A1%20%C3%89/Ja%20%C3%A9%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/J%C3%A1%20%C3%89/Ja%20%C3%A9%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "60 bpm",
+     "bpm": 60,
+     "url": "repertorio/Samba/J%C3%A1%20%C3%89/Ja%20%C3%A9%20(60bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "100 bpm",
+     "bpm": 100,
+     "url": "repertorio/Samba/J%C3%A1%20%C3%89/Ja%20%C3%A9%20(100bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-maneiras",
+   "genre": "Samba",
+   "title": "Maneiras",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Maneiras/Maneiras%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Maneiras/Maneiras%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "50 bpm",
+     "bpm": 50,
+     "url": "repertorio/Samba/Maneiras/Maneiras%20(50bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "80 bpm",
+     "bpm": 80,
+     "url": "repertorio/Samba/Maneiras/Maneiras%20(80bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-maracangalha",
+   "genre": "Samba",
+   "title": "Maracangalha",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Maracangalha/Maracangalha%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "com letra",
+     "url": "repertorio/Samba/Maracangalha/Maracangalha%20(com%20letra)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Maracangalha/Maracangalha%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Maracangalha/Maracangalha%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "115 bpm",
+     "bpm": 115,
+     "url": "repertorio/Samba/Maracangalha/Maracangalha%20(115bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-o-bebado-e-a-equilibrista",
+   "genre": "Samba",
+   "title": "O Bêbado e a Equilibrista",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/O%20B%C3%AAbado%20e%20a%20Equilibrista/O%20b%C3%AAbado%20e%20a%20equilibrista%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "com letra",
+     "url": "repertorio/Samba/O%20B%C3%AAbado%20e%20a%20Equilibrista/O%20b%C3%AAbado%20e%20a%20equilibrista%20(com%20letra)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/O%20B%C3%AAbado%20e%20a%20Equilibrista/O%20b%C3%AAbado%20e%20a%20equilibrista%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/O%20B%C3%AAbado%20e%20a%20Equilibrista/O%20b%C3%AAbado%20e%20a%20equilibrista%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Samba/O%20B%C3%AAbado%20e%20a%20Equilibrista/O%20b%C3%AAbado%20e%20a%20equilibrista%20(110bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-portela-na-avenida",
+   "genre": "Samba",
+   "title": "Portela na Avenida",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Portela%20na%20Avenida/Portela%20Na%20Avenida%20(com%20cola)-Trompete_em_Sib.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Portela%20na%20Avenida/Portela%20Na%20Avenida%20(sem%20cola)-Trompete_em_Sib.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Portela%20na%20Avenida/Portela%20Na%20Avenida%20(70bpm)-Trompete_em_Sib.mp3"
+    },
+    {
+     "label": "110 bpm",
+     "bpm": 110,
+     "url": "repertorio/Samba/Portela%20na%20Avenida/Portela%20Na%20Avenida%20(110bpm)-Trompete_em_Sib.mp3"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "samba-tristeza",
+   "genre": "Samba",
+   "title": "Tristeza",
+   "pdfs": [
+    {
+     "label": "com cola",
+     "url": "repertorio/Samba/Tristeza/Tristeza%20(com%20cola)-Trompete_em_Bb.pdf"
+    },
+    {
+     "label": "sem cola",
+     "url": "repertorio/Samba/Tristeza/Tristeza%20(sem%20cola)-Trompete_em_Bb.pdf"
+    }
+   ],
+   "audios": [
+    {
+     "label": "70 bpm",
+     "bpm": 70,
+     "url": "repertorio/Samba/Tristeza/Tristeza%20(70bpm)-Trompete_em_Bb.mp3"
+    },
+    {
+     "label": "115 bpm",
+     "bpm": 115,
+     "url": "repertorio/Samba/Tristeza/Tristeza%20(115bpm)-Trompete_em_Bb.mp3"
+    }
+   ],
+   "links": []
+  }
+ ],
+ "docs": [
+  {
+   "title": "Cola para lira SIB · MENQ TROMPETE CARNAVAL 2024",
+   "url": "repertorio/-%3E%20Cola%20para%20lira%20SIB/MENQ%20TROMPETE%20CARNAVAL%202024.pdf"
+  }
+ ],
+ "links": [
+  {
+   "label": "Áudio todos os naipes",
+   "url": "https://www.dropbox.com/scl/fo/29tk2ghptyscmmbehvhcv/h?rlkey=9h6wi5s36yk6sn08nrmnysy52&dl=0"
+  }
+ ]
+}
